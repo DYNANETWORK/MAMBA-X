@@ -4,7 +4,7 @@
 
 [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/SUKHPAL443/MAMBA-X)
 
-<p align = "center"><a herf = "https://t.me/MAMBAX_GBOT" alt = "MAMBA"><img src = "https://telegra.ph/file/54f8bedfdaca2954d2ed4.png" width = "900"></a></p>
+<p align = "center"><a herf = "https://t.me/MAMBAX_GBOT" alt = "MAMBA"><img src = "https://telegra.ph/file/c61dc24bd0bc889c3838d.jpg" width = "900"></a></p>
 
 <p align = "center">
 <a href = "https://python.org">
