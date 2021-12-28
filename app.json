@@ -1,15 +1,15 @@
 {
-      "name": "╚»𝗧-𝗚-𝗡«╝ Robot",
+      "name": "MAMBA X",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/19798419a95cd778001c9.jpg",
+      "logo": "https://telegra.ph/file/c61dc24bd0bc889c3838d.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "TGN"
+         "MAMBA"
       ],   
-   "repository": "https://github.com/Itsunknown-12/TGN-Robot.git",
+   "repository": "https://github.com/SUKHPAL443/MAMBA-X.git",
    "addons": [
       {
          "options": {
@@ -67,12 +67,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Timesisnotwaiting"
+         "value": "MAMBA_STAR"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "GodfatherSupport"
+         "value": "MAMBA_X_SUPPORT"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
