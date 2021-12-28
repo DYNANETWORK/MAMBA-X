@@ -47,7 +47,7 @@ Can be found on Telegram as [MAMBA 💞](https://t.me/MAMBAX_GBOT)</br>
 
 ## 🆂🆄🅿🅿🅾🆁🆃
 [![MAMBA SUPPORT](https://img.shields.io/badge/MAMBA_X_SUPPORT-red?style=for-the-badge&logo=telegram)](https://t.me/MAMBA_X_SUPPORT)</br></br>
-[![NETWORK](https://img.shields.io/badge/CYBER-EAGLE-NETWORK-red?style=for-the-badge&logo=telegram)](https://t.me/CYBER_EAGLE_NETWORK)</br></br>
+[![NETWORK](https://img.shields.io/badge/CYBER_EAGLE_NETWORK-red?style=for-the-badge&logo=telegram)](https://t.me/CYBER_EAGLE_NETWORK)</br></br>
 [![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/MAMBA_STAR)
 
 ## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
