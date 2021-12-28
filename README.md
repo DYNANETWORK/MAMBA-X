@@ -36,7 +36,7 @@ Can be found on Telegram as [MAMBA 💞](https://t.me/MAMBAX_GBOT)</br>
 
 
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=MAMBA-X&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHPAL443&repo=MAMBA-X&theme=dark)
 
 ## 🅓🅔🅟🅛🅞🅨
 [![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBA-X)
