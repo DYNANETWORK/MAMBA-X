@@ -2,9 +2,9 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Itsunknown-12/TGN-Robot)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/SUKHPAL443/MAMBA-X)
 
-<p align = "center"><a herf = "https://t.me/Zaid2_Ro_bot" alt = "Zaid"><img src = "https://telegra.ph/file/54f8bedfdaca2954d2ed4.png" width = "900"></a></p>
+<p align = "center"><a herf = "https://t.me/MAMBAX_GBOT" alt = "MAMBA"><img src = "https://telegra.ph/file/54f8bedfdaca2954d2ed4.png" width = "900"></a></p>
 
 <p align = "center">
 <a href = "https://python.org">
@@ -13,7 +13,7 @@
 </a>
 
 <p align = "center">
-<a href = "https://github.com/Itsunknown-12/Zaid-Robot">
+<a href = "https://github.com/SUKHPAL443/MAMBA-X">
 <img src = "https://forthebadge.com/images/badges/open-source.svg">
 </p>
 </a>
@@ -32,28 +32,27 @@
 - Easy To Use
 - Random Logos
 
-Can be found on Telegram as [TGN 💞](https://t.me/TGN_RO_BOT)</br>
+Can be found on Telegram as [MAMBA 💞](https://t.me/MAMBAX_GBOT)</br>
 
 
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=TGN-Robot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=MAMBA-X&theme=dark)
 
 ## 🅓🅔🅟🅛🅞🅨
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ITZ-ZAID/TGN-Robot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBA-X)
 
 
 ## 🆅🅴🆁🅸🅰🅱🅻🅴🆂
-[ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
+[ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/SUKHPAL443/MAMBA-X/blob/master/Configuration)
 
 ## 🆂🆄🅿🅿🅾🆁🆃
-[![Zaid](https://img.shields.io/badge/Zaid-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/SUPERIOR_BOTS)</br></br>
-[![Zaid](https://img.shields.io/badge/Superior-Group-red?style=for-the-badge&logo=telegram)](https://t.me/SUPERIOR_SUPPORT)</br></br>
-[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Timesisnotwaiting)
+[![MAMBA SUPPORT](https://img.shields.io/badge/MAMBA_X_SUPPORT-red?style=for-the-badge&logo=telegram)](https://t.me/MAMBA_X_SUPPORT)</br></br>
+[![NETWORK](https://img.shields.io/badge/CYBER-EAGLE-NETWORK-red?style=for-the-badge&logo=telegram)](https://t.me/CYBER_EAGLE_NETWORK)</br></br>
+[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/MAMBA_STAR)
 
 ## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
+#### @HELLL_BOYYY
+#### @ITZ_SAMBODHIRAJ
 
- - Saitama Robot - for Modules
- - Layla Bot - for Some Help modules
- - innexia - for some Button And Helps
 
 
